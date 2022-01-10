@@ -1,4 +1,4 @@
-Slay ![Build Status](https://github.com/donPabloNow/slay/workflows/Test/badge.svg) [![Code Climate](https://codeclimate.com/github/donPabloNow/donPabloNow.svg)](https://codeclimate.com/github/donPabloNow/donPabloNow) [![Bountysource](https://api.bountysource.com/badge/tracker?tracker_id=68393)](https://www.bountysource.com/trackers/68393-donPabloNow?utm_source=68393&utm_medium=shield&utm_campaign=TRACKER_BADGE)
+Slay
 ===============
 
 [Slay](https://slay.com) is an open source habit building program which treats your life like a Role Playing Game. Level
